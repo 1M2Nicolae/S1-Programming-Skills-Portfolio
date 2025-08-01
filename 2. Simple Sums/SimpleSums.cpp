@@ -13,8 +13,8 @@ using namespace std; // declare a standard namespace
  int main() { // defining the main function
     int number1= 8;  // declaring the first variable and initialise with value of 8
     int number2= 10; // declaring the second variable and initialise with value of 10
-    int number= number1 + number2; // declaring the third variable that adds the first and second variables together
-    cout<< number << endl; // console output value
+    int total= number1 + number2; // declaring the third variable that adds the first and second variables together 
+    cout<< total << endl; // console output value
 
 
 
